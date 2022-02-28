@@ -1,0 +1,7 @@
+class Main {
+    let a : int;
+    main() : int {
+        while 4>5 loop a <- 2; pool
+        return 2;
+    }
+}

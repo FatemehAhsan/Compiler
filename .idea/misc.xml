@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/src/test/actual/t0.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t1.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t10.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t11.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t12.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t13.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t14.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t15.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t16.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t17.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t18.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t19.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t2.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t20.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t3.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t4.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t5.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t6.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t7.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t8.s" />
+    <file url="file://$PROJECT_DIR$/src/test/actual/t9.s" />
+    <file url="file://$PROJECT_DIR$/src/test/expected/t3.s" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

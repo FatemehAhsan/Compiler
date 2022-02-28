@@ -1,0 +1,23 @@
+class Main {
+    let a : int;
+    let b : int;
+    let c : int;
+    let d : bool;
+    let e : real;
+    main() : int {
+        a <- 0;
+        b <- 1;
+        c <- a ^ b ;
+        c <- a & b ;
+        c <- a | b ;
+        d <- false;
+        e <- 5.0;
+        c <- (int) 4.0;
+        c <- (int) true;
+        c <- (int) d;
+        c <- (int) e;
+        c <- (int) (d || true);
+        c <- (int) (e + 5.7);
+        return 2;
+    }
+}

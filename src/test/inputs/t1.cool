@@ -1,0 +1,12 @@
+class Main {
+	let a: int;
+	let b: int;
+    main() : int {
+        out_int(77);
+        a <- 3;
+        b <- 5;
+        out_int(a);
+        out_int(a+b);
+        return 2;
+    }
+}

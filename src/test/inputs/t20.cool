@@ -1,0 +1,13 @@
+class Main {
+    let a static : int;
+    main() : real {
+    	while 4>5 loop a <- 2; pool
+    	return 6.0;
+    	a <- 7;
+    }
+     main3() : real {
+        	while 4>5 loop a <- 2; pool
+        	return 6.0;
+        	a <- 7;
+     }
+}

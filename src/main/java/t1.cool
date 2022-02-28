@@ -1,0 +1,26 @@
+class Main {
+    let a: int[];
+    let b: int;
+    let c: int;
+    main () : int {
+        for (b <- 2 ; b<3 ; b++) c<-5; rof
+                //a <- new Array (int,5);
+                //a <- b <- 3;
+                //if 3>4 then a <- 7; fi
+                //if 3>4 then if 5>4 then a <- 7; fi else a <- 6; fi
+                //if 3>4 then if 5>4 then a <- 7; else a <-9; fi else a <- 10; fi
+                //if 3>4 then a <- 8; else if 5>4 then a <- 7; else a <-9; fi fi
+                //while 4>5 loop a <- 2; pool
+                //while 4>5 loop if 3>4 then a <- 7; fi pool
+                //while 4>5 loop while 4>5 loop a<-8; pool pool
+                /*dfsfdg
+                gskfkdg
+                dff*/
+        return 2;
+        b <- 11;
+    }
+    main_3() : real {
+       return 6;
+       b <- 7;
+    }
+}

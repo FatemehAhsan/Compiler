@@ -1,0 +1,11 @@
+class Main {
+    let a: int;
+    m (a : int) : int {
+        return a+4;
+    }
+    main(h : int) : int {
+       h <- m(5);
+       out_int(h);
+       return 2;
+    }
+}

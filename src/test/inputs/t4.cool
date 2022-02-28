@@ -1,0 +1,13 @@
+class Main {
+    let a : int;
+    let c : int;
+    main() : int {
+    	a <- 8;
+    	c <- ++a ;
+        c <- --a ;
+        c <- a++ ;
+        c <- a-- ;
+        return 2;
+   }
+}
+        

@@ -1,0 +1,17 @@
+class Main2 {
+    let a: int;
+    let t: int;
+    main(h : int) : int {
+       h <- 6;
+       return 2;
+    }
+}
+class Main {
+    let a: int;
+    let g: Main2;
+    main() : int {
+       g.t <- 9;
+       a <- g.t;
+       return 2;
+    }
+}

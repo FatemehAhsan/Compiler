@@ -1,0 +1,14 @@
+class Main {
+    let a static : int;
+    main() : real {
+    return 8.0;
+    }
+}
+class Main2 {
+    let b: int;	
+    main() : real {
+    Main.a <- 4;
+    b <- Main.a;
+    return 8.0;
+    }
+}

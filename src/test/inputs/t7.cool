@@ -1,0 +1,31 @@
+class Main {
+    let c : bool;
+    let d : int; 
+    let e : int;    
+    main() : int {
+        d <- 5;
+        e <- 7;
+        c <- 3 > 6;
+        c <- 3 < 6;
+        c <- 3 == 6;
+        c <- 3 != 6;
+        c <- 3 <= 6;
+        c <- 3 >= 6;
+        c <- d > e;
+        c <- d < e;
+        c <- d == e;
+        c <- d != e;
+        c <- d <= e;
+        c <- d >= e;
+        c <- d+4 > e;
+        c <- d+5 < e;
+        c <- d+5 == e;
+        c <- d+5 != e;
+        c <- d+5 <= e;
+        c <- d+6 >= e;
+        c <- (bool) 4;
+        c <- (bool) d;
+        c <- (bool) (d+6);
+        return 2;
+    }
+}

@@ -1,0 +1,25 @@
+class Main {
+    let a : real;
+    let b : real;
+    let c : real;
+    main() : int {
+        a <- 2.0;
+        b <- 6.0;
+        c <- 3.4 + 6.1;
+        c <- 3.4 - 6.1;
+        c <- 3.4 * 6.1;
+        c <- 3.4 / 6.1;
+        c <- 3.4 % 6.1;
+        c <- b + a;
+        c <- b - a;
+        c <- b * a;
+        c <- b / a;
+        c <- b % a;
+        c <- b+4.0;
+        c <- b-4.0;
+        c <- b*4.0;
+        c <- b/4.0;
+        c <- b%4.0;
+        return 2;
+    }
+}

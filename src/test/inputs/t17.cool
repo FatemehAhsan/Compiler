@@ -1,0 +1,13 @@
+class Main {
+    let a static : int;
+    let b : real;
+    let c : real;
+    let d : bool;
+    main() : int {
+        a <- 2;
+        b <- 3.0;
+        c <- 1.89;
+        d <- b == c;
+        return 2;
+    }
+}

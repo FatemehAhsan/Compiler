@@ -1,0 +1,20 @@
+class Main {
+	let a: string;
+	let b: string;
+	let c: string;
+	let d: bool;
+	let e: int;
+    main() : int {
+    	 a <- "salam";
+    	 b <- "salam";
+    	 c <- "salam2";
+    	 d <- "s" == "g";
+    	 d <- "salam" != "g";
+    	 d <- a == b;
+    	 d <- a != b;
+    	 e <- len("ss");
+         e <- len(a);
+         e <- len(a + "df");
+         return 2;
+    }
+}

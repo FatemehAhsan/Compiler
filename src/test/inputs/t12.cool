@@ -1,0 +1,22 @@
+class Main2 {
+    let a: int;
+    m () : int {
+        return 4;
+    }
+    main(h : int) : int {
+       h <- m();
+       return 2;
+    }
+}
+class Main {
+    let a: Main2;
+    m2 () : int {
+        return 4;
+    }
+    main(h : int) : int {
+       h <- m2();	
+       h <- a.m();
+       h <- a.main(h);
+       return 2;
+    }
+}

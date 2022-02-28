@@ -1,0 +1,9 @@
+class Main {
+    let a : int;
+    let b : string;
+    main() : int {
+        a <- in_int();
+        b <- in_string();
+        return 2;
+    }
+}

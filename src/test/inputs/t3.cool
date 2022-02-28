@@ -1,0 +1,26 @@
+class Main {
+    let a : int;
+    let b : int;
+    let c : int;
+    main() : int {
+        a <- 8;
+        b <- 6;
+        c <- 6 + 8 ;
+    	c <- 7 - 8 ;
+    	c <- 5 * 5 ;
+    	c <- 5 / 5 ;
+        c <- 9 % 4 ;
+    	c <- a + 4 ;
+    	c <- a - 4 ;
+    	c <- a * 4 ;
+    	c <- a / 4 ;
+        c <- a % 4 ;
+        c <- a + b ;
+        c <- a + b ;
+    	c <- a - b ;
+    	c <- a * b ;
+    	c <- a / b ;
+        c <- a % b ;
+        return 2;
+    }
+}

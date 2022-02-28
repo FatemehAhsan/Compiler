@@ -1,0 +1,12 @@
+class Main {
+	let a: string;
+	let b: string;	
+    main() : int {
+       out_string("salam");
+       a <- "salam2";
+       b <- "f";	
+       out_string(a);
+       out_string(a+b);
+       return 2;
+    }
+}

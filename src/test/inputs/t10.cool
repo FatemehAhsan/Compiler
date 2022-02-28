@@ -1,0 +1,7 @@
+class Main {
+    let a : int;
+    main() : int {
+        if 3>4 then a <- 7; else a <- 5; fi
+        return 2;
+    }
+}
