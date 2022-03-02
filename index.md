@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# About The Project
 
-You can use the [editor on GitHub](https://github.com/Fateme-Ahsan/Compiler/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Compiler image](https://media.geeksforgeeks.org/wp-content/uploads/compileProcess.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project is a compiler for an Object Oriented Language called COOL (Classroom Object Oriented Language) and consists of three main phases: 
+- Scanner
+- Parser 
+- Code Generator
 
-### Markdown
+# Built With
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[junit5](https://junit.org/junit5/)
 
-```markdown
-Syntax highlighted code block
+# How to use
 
-# Header 1
-## Header 2
-### Header 3
+For a simple run you can only copy your input file in [input file path](src/main/java/t1.cool) and run the project then you will see the output will generated in [output file path](src/main/java/t1.s).
 
-- Bulleted
-- List
+More advanced work with this project (specially for test) can be done with this [path](src/main/test)
 
-1. Numbered
-2. List
+# Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fateme-Ahsan/Compiler/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Fateme Ahsan - ftmahsan@outlook.com
+Project Link: https://github.com/Fateme-Ahsan/Compiler
