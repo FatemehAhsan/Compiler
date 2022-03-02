@@ -2,7 +2,7 @@
 
 ![Compiler image](https://media.geeksforgeeks.org/wp-content/uploads/compileProcess.jpg)
 
-This project is a compiler for an Object Oriented Language called Cool (Classroom Object Oriented Language) and consists of three main phases: 
+This project is a compiler for an Object Oriented Language called COOL (Classroom Object Oriented Language) and consists of three main phases: 
 - Scanner
 - Parser 
 - Code Generator
