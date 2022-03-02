@@ -2,15 +2,21 @@
 ![Compiler image](https://media.geeksforgeeks.org/wp-content/uploads/compileProcess.jpg)
 
 Compiler Spring 2021 project
+
 This project is a compiler for an Object Oriented Language called Cool (Classroom Object Oriented Language) and consists of three main phases: 
 - Scanner
 - Parser 
 - Code Generator
 
-Dr.Jaberipuor
+# Built With
 
-For cool language
+[junit5](https://junit.org/junit5/)
 
-This project has some small faults
+# Getting Started
 
-Conatains tests with JUnit
+For a simple run you can only copy your input file in [src](src/t1.cool) path and run the project then you will see the output will generated in [src](src/t1.s) path.
+
+# Contact
+
+Fateme Ahsan - ftmahsan@outlook.com
+Project Link: https://github.com/Fateme-Ahsan/Compiler
