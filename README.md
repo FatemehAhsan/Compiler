@@ -11,9 +11,11 @@ This project is a compiler for an Object Oriented Language called COOL (Classroo
 
 [junit5](https://junit.org/junit5/)
 
-# Getting Started
+# How to use
 
-For a simple run you can only copy your input file in [input path](src/main/java/t1.cool) path and run the project then you will see the output will generated in [src/t1.s](src/main/java/t1.s) path.
+For a simple run you can only copy your input file in [input file path](src/main/java/t1.cool) and run the project then you will see the output will generated in [output file path](src/main/java/t1.s).
+
+More advanced work with this project (specially for test) can be done with this [path](src/main/test)
 
 # Contact
 
