@@ -13,7 +13,7 @@ This project is a compiler for an Object Oriented Language called COOL (Classroo
 
 # Getting Started
 
-For a simple run you can only copy your input file in [src/t1.cool](src/t1.cool) path and run the project then you will see the output will generated in [src/t1.s](src/t1.s) path.
+For a simple run you can only copy your input file in [input path](src/main/java/t1.cool) path and run the project then you will see the output will generated in [src/t1.s](src/main/java/t1.s) path.
 
 # Contact
 
