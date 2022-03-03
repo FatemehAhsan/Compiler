@@ -2,13 +2,11 @@
 
 ## Description
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+No issue has been raised for this project so far
 
-Fixes # (issue)
+But I kindly ask you to fork this project and change if it's bad then pull request to me 
 
 ## Type of change
-
-Please delete options that are not relevant.
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
