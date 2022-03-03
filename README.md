@@ -11,6 +11,8 @@ This project is a compiler for an Object Oriented Language called COOL (Classroo
 
 [jflex](https://www.jflex.de/)
 
+[pgen](https://github.com/Borjianamin98/PGen)
+
 [junit5](https://junit.org/junit5/)
 
 # How to use
