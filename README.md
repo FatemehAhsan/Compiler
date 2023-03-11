@@ -28,9 +28,3 @@ More advanced work with this project (specially for test) can be done with this 
 <a name="License"></a>
 
 Distributed under the GNU General Public License v3.0. See [License](License) for more information.
-
-# Contact
-
-Fateme Ahsan - ftmahsan@outlook.com
-
-Project Link: https://github.com/Fateme-Ahsan/Compiler
